@@ -1,4 +1,4 @@
-
+// This file is a 13 node feeder with triplex loads instead of ZIPLoads. Also, it is using player object which imports data from "converted0.csv" file. This file is attached in this repo.
 
 module powerflow {
      solver_method NR;
